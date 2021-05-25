@@ -1,0 +1,12 @@
+
+public class Teste {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		FuncionarioTeste f1 = new FuncionarioTeste();
+		f1.setSalario(3000.00);
+		System.out.println(f1.getTipo(0));
+		System.out.println("Bonificação: " + f1.getBonificacao());
+	}
+
+}

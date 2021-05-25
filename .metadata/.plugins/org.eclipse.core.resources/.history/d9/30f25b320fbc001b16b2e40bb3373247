@@ -1,0 +1,16 @@
+
+public class TesteReferencias {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//NOME CPF SALARIO
+		Funcionario g1 = new Gerente("Marcos","23214124-2", 5000.00);
+		
+		String nome = g1.getNome();
+		
+		System.out.println(nome);
+		
+		
+	}
+
+}
