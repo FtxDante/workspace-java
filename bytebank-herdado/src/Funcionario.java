@@ -5,11 +5,7 @@ public abstract class Funcionario {
 	private String cpf;
 	private double salario;
 	
-	public Funcionario(String nome, String cpf, double salario) {
-		this.setNome(nome);
-		this.setCpf(cpf);
-		this.setSalario(salario);
-	}
+	
 	//Método sem corpo, não há implementação
 	public abstract double getBonificacao();
 	

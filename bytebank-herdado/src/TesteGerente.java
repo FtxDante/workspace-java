@@ -4,7 +4,7 @@ public class TesteGerente {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			
-		Gerente g1 = new Gerente("Marco", "2213123-2", 5000.0);
+		Gerente g1 = new Gerente();
 		
 		System.out.println(g1.getNome());
 		System.out.println(g1.getCpf());
