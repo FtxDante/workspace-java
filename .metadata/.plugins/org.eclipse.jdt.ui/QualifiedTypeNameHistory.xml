@@ -4,4 +4,9 @@
     <fullyQualifiedTypeName name="sun.jvm.hotspot.utilities.Interval"/>
     <fullyQualifiedTypeName name="com.sun.tools.sjavac.server.SysInfo"/>
     <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="ContaPoupanca"/>
+    <fullyQualifiedTypeName name="Gerente"/>
+    <fullyQualifiedTypeName name="AutenticacaoUtil"/>
+    <fullyQualifiedTypeName name="SeguroDeVida"/>
+    <fullyQualifiedTypeName name="CalculadorDeImposto"/>
 </qualifiedTypeNameHistroy>
