@@ -1,12 +1,14 @@
 
 public class TicketEmbarque {
-	private int  idade;
+	private int  idade, numPassagem;
 	private String data, hora, localEmbarque, localDesembarque, poltrona, nomePassageiro;
 	
-	public void TickeEmbarque(String nome) {
-		setNomePassageiro(nome);
+	public int getNumPassagem() {
+		return numPassagem;
 	}
-	
+	public void  setNumPassagem(int num) {
+		this.numPassagem = num;
+	}
 	public int getIdade() {
 		return idade;
 	}
