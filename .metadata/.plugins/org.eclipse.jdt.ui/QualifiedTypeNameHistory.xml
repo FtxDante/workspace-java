@@ -14,6 +14,6 @@
     <fullyQualifiedTypeName name="SaldoInsuficienteException"/>
     <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Conta"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
 </qualifiedTypeNameHistroy>
